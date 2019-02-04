@@ -1,0 +1,151 @@
+p {
+  position: relative;
+  top: -35px;
+  left: 267px;
+  font-family:Times New Roman;
+  font-weight: bold;  
+   color: black;
+}
+.o{
+	position: relative;
+    top: 0px;
+    left: 236px;
+}
+.v {
+	position: relative;
+    top: -71px;
+    left: 380px;
+}
+.first {
+	color:white;
+	padding:20px;
+}
+.add{
+	background:#4757E3;
+	color:white;
+	border-color:white;
+	padding: 6px 10px;
+	position: relative;
+	top: 0px;
+	left: 215px;
+}
+.update{
+	background:#4757E3;
+	color:white;
+	border-color: white;
+	padding: 6px 10px;
+	position: relative;
+	top: 0px;
+	left: 230px;
+}
+.first input[type=text] {
+  float: right;
+  border: 1px solid #ccc; 
+  padding: 4px 35px;
+  position: relative;
+  top: 10px;
+  left: -215px;
+}
+img{
+	position: relative;
+	left: 620px;
+	top: 10px;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+
+}
+
+table, td, th {
+  border: 1px solid #E1DFDE;
+}
+
+th {
+  vertical-align: bottom;
+}
+table {
+  border-collapse: collapse;
+  position: relative;
+  vertical-align: bottom;
+  position: relative;
+  top: -60px;
+
+}
+
+td {
+  vertical-align: bottom;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.round {
+  border: 2px;
+}
+
+.previous round {
+	border: 2px;
+	font-weight: bold; 
+}
+table{
+	  border-color: gray;
+      border-spacing: 200px; 
+}
+
+
+.day{
+	position: relative;
+    top: -71px;
+    left: 390px;
+	color: black;
+}
+
+h6 {
+	position: relative;
+    top: -71px;
+    left: 1px;
+	color: #ADA9A7;
+	font-style: Times New Roman;
+
+}
+
+.c{
+	background:  #e1e1ea;
+}
+.t{
+	background:  #b3ccff;
+}
+
+.of{
+	color:red;
+}
+.l{
+	position: relative;
+    top: 150px;
+    left: 448px;
+	color: #ADA9A7;
+	font-style: Times New Roman;
+}
+.cl{
+	background:  #b3ccff;
+}
+.n{
+	position: relative;
+  top: 47px;
+  left: 0px;
+  font-family:Times New Roman;
+  font-weight: bold;  
+   color: #808080;
+}
+.d{
+	position: relative;
+  top: 70px;
+  left: 0px;
+  font-family:Times New Roman;
+  font-weight: bold;  
+   color: #808080;
+}
